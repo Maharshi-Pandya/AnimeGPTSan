@@ -1,5 +1,3 @@
-# AnimeGPTSan
-
 # AnimeGPTSan (Fine-tuned for Anime synopsis)
 
 `AnimeGPTSan` is essentially the OpenAI's `GPT2` model fine-tuned on [this anime dataset](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews). This model can be used to generate new descriptions/synopses for anime, based on some input prompt.
